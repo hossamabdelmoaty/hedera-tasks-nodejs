@@ -1,0 +1,12 @@
+
+######---------------- Task_6_ConsensusService ----------------######
+--------- Consensus ---------
+Topic has been created with Topic ID =  0.0.3841609
+Setting Timeout with 5 seconds
+Timeout is over
+
+  Message has been successfully submited to topic
+  --- Topic ID = 0.0.3841609
+  --- Message = 2023-03-17T14:18:36.357Z
+  --- Message Submission Status = SUCCESS  
+  

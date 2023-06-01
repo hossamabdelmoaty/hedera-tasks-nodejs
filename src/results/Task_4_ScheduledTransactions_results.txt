@@ -1,0 +1,16 @@
+
+######---------------- Task_4_ScheduledTransactions ----------------######
+--------- Scheduling a Tiny Bar Transaction ---------
+Sending 10 Hbars from account 1 to account 2
+The Base64 encoding of the scheduled transaction = CrYBKrMBCq4BChsKDAij7dGgBhDZlK3IARIJCAAQABiyvOoBGAASBggAEAAYAxiAyrXuASICCHgyANICego1CIDC1y8SAEosCioKEwoJCAAQABiyvOoBEP+n1rkHGAAKEwoJCAAQABizvOoBEICo1rkHGAASQUhvc3NhbSBzY2hlZHVsZWQgdHJhbnNhY3Rpb24gMDQ4NTk0OTItMWM4Zi00YmZjLWE5YmUtYTFjODkyZjljZDRiEgA=
+
+--- Decoding Tx from Base64, signging and submitting it ---
+The scheduled transaction is successfully submitted with status =  SUCCESS
+Queried Scheduled Transaction
+--- Schedule Id =  0.0.3841606
+--- Schedule Memo =  Hossam scheduled transaction 04859492-1c8f-4bfc-a9be-a1c892f9cd4b
+--- Creator Account Id =  0.0.3841586
+--- Payer Account Id =  0.0.3841586
+--- Expiration Time =  Fri Mar 17 2023 16:48:21 GMT+0200 (Eastern European Standard Time)
+--- Execution Time =  Fri Mar 17 2023 16:18:21 GMT+0200 (Eastern European Standard Time)
+

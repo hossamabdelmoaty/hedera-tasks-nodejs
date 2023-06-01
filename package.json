@@ -1,0 +1,27 @@
+{
+  "name": "hedera-exam-code",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "@hashgraph/hethers": "^1.2.6",
+    "@hashgraph/sdk": "^2.16.6",
+    "@remix-project/remixd": "^0.6.2",
+    "@uniswap/lib": "^4.0.1-alpha",
+    "@uniswap/v2-core": "^1.0.1",
+    "lodash": "^4.17.21",
+    "npm-run-all": "^4.1.5",
+    "uuid": "^9.0.0"
+  },
+  "scripts": {
+    "start": "npm-run-all start:*",
+    "start:task-1-NewAccount": "node src/tasks/Task_1_AddNewAccounts.js",
+    "start:task-2-TokenService": "node src/tasks/Task_2_TokenService.js",
+    "start:task-3-SmartContract": "node src/tasks/Task_3_SmartContract.js",
+    "start:task-4-ScheduledTransaction": "node src/tasks/Task_4_ScheduledTransactions.js",
+    "start:task-5-MultiSignature": "node src/tasks/Task_5_MultiSignature.js",
+    "start:task-6_ConsensusService": "node src/tasks/Task_6_ConsensusService.js"
+  },
+  "author": "Hossam Abdelmoaty",
+  "license": "ISC"
+}
