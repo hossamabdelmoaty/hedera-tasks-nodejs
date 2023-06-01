@@ -1,0 +1,7 @@
+
+######---------------- Task_3_SmartContract ----------------######
+--------- Deploying the smart contract ---------
+The deployed smart contract id = 0.0.3841601
+--------- Executing the smart contract ---------
+First result from function function1 = 12
+First result from function function1 = 14

@@ -1,0 +1,14 @@
+
+######---------------- Task_2_TokenService ----------------######
+-----Creating the new token-----
+The new token ID is 0.0.3841594
+
+----- Minting-----
+The status of the minting transaction  SUCCESS
+-----Token Association-----
+The status of the Token association with Account 3 is SUCCESS 
+
+Account 1 ID = 0.0.3841586 balance = 5
+The transfer transaction receipt status  SUCCESS
+Account 1 ID = 0.0.3841586 balance = 4
+Account 3 ID =  0.0.3841588 balance = 1
